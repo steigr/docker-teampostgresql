@@ -1,7 +1,7 @@
 # TeamPostgreSQL Container
 
-- Based on [http://hub.docker.com/r/anapsix/alpine-java](alpinelinux with Oracle JRE)
-- Use Caddy as HTTP/2 reverse proxy
+- Based on [alpinelinux with Oracle JRE](http://hub.docker.com/r/anapsix/alpine-java)
+- Use [Caddy](https://github.com/mholt/caddy) as HTTP/2 reverse proxy
 
 
 ## Configuration
