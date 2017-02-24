@@ -1,5 +1,9 @@
 # TeamPostgreSQL Container
 
+[![](https://images.microbadger.com/badges/image/steigr/teampostgresql.svg)](http://microbadger.com/images/steigr/teampostgresql "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/steigr/teampostgresql.svg)](http://microbadger.com/images/steigr/teampostgresql "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/commit/steigr/teampostgresql.svg)](http://microbadger.com/images/steigr/teampostgresql "Get your own commit badge on microbadger.com")
+
 - Based on [alpinelinux with Oracle JRE](http://hub.docker.com/r/anapsix/alpine-java)
 - Use [Caddy](https://github.com/mholt/caddy) as HTTP/2 reverse proxy
 
